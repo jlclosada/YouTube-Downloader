@@ -43,6 +43,3 @@ boton = Button(root, text="Download", command=download)
 boton.grid(row=2, column=1)
 
 root.mainloop()
-
-
-label = "Hola"
